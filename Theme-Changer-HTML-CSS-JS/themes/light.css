@@ -1,0 +1,12 @@
+button {
+    background-color: #3498db;
+    color: #fff;
+}
+
+body h1 {
+    color: black;
+}
+
+button:hover {
+    background-color: #217ab6;
+}
